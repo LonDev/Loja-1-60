@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+alter table estoque AUTO_INCREMENT = 1;
+alter table fornecedors AUTO_INCREMENT = 1;
+alter table notas  AUTO_INCREMENT = 1;
+alter table descricao_notas  AUTO_INCREMENT = 1;
+alter table vendas AUTO_INCREMENT = 1;

@@ -1,0 +1,1 @@
+..\bin\mysql\mysql5.6.17\bin\mysqldump -u root loja > backup_db\loja.%date:~0,2%-%date:~3,2%-%date:~6,10%.sql
